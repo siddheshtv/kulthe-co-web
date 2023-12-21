@@ -24,7 +24,7 @@ const Footer = () => {
             <span className="text-9xl pb-12">
               to{" "}
               <a href="/">
-                <span className="font-bold italic underline decoration-wavy hover:underline hover:decoration-solid transition-all duration-300">
+                <span className="font-bold italic underline underline-offset-8 decoration-wavy hover:underline hover:decoration-solid transition-all duration-300">
                   Get Started &rarr;
                 </span>
               </a>
