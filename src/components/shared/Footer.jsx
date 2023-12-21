@@ -39,10 +39,8 @@ const Footer = () => {
                   &copy; {year}, Kulthe Media, Limited
                 </p>
                 <p className="text-gray-500 max-w-md">
-                  The best ever software agency is we,{" "}
-                  <span className="font-bold">Kulthe</span>, have served more
-                  than 32 years well and certainly makes you comfortable and
-                  safe.
+                  We are an AI/ML development firm based in the &nbsp;🇬🇧&nbsp;
+                  serving the &nbsp;🌎
                 </p>
               </div>
               <div className="flex space-x-2 text-gray-500">
