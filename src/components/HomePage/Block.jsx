@@ -22,11 +22,11 @@ const Block = () => {
         </div>
         <div className="col-span-3 flex flex-col justify-end items-end p-24 text-right space-y-12">
           <div className="">
-            <h2 className="text-8xl opacity-60 font-thin">
+            <h2 className="text-8xl opacity-60 font-thin tracking-tighter">
               <span className="font-bold">Kulthe</span> has been at the
-              forefront of AI, helping many companies achieve achieve atleast{" "}
-              <span className="font-bold">21.8% ROI</span> through their
-              solutions
+              forefront of AI, helping many companies achieve as high as{" "}
+              <span className="font-bold tracking-tighter">37.8% ROI</span>{" "}
+              through their solutions
             </h2>
           </div>
         </div>
