@@ -2,7 +2,7 @@ import React from "react";
 
 const FeaturedWork = () => {
   return (
-    <div className="p-8">
+    <div className="py-8 px-16">
       <div className="pb-12">
         <h1 className="text-6xl">Featured</h1>
       </div>

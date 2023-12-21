@@ -37,9 +37,9 @@ const Accord = () => {
   ];
 
   return (
-    <div className="flex flex-col justify-center items-center space-y-3 py-24">
+    <div className="flex flex-col justify-center items-center space-y-3 py-24 px-16">
       <div className="mb-8">
-        <h1 className="text-center text-5xl">FAQs</h1>
+        <h1 className="text-center text-7xl">Frequently Asked Questions</h1>
       </div>
       {faqs.map((faq, index) => (
         <div

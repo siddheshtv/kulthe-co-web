@@ -5,7 +5,7 @@ const Footer = () => {
   let year = d.getFullYear();
   return (
     <div className="py-8">
-      <div className="mx-8 rounded-3xl bg-gray-900 p-12 flex flex-col space-y-2 relative">
+      <div className="mx-16 rounded-3xl bg-gray-900 p-12 flex flex-col space-y-2 relative">
         <div className="flex justify-between">
           <div className="">
             <span className="text-9xl">
@@ -21,10 +21,10 @@ const Footer = () => {
         </div>
         <div className="flex justify-start items-start space-x-4">
           <div className="flex items-stretch flex-col space-y-12 w-full">
-            <span className="text-9xl pb-12">
+            <span className="text-9xl pb-12 mt-4">
               to{" "}
               <a href="/">
-                <span className="font-bold italic underline underline-offset-8 decoration-wavy hover:underline hover:decoration-solid transition-all duration-300">
+                <span className="bg-blue-600 hover:text-gray-950 hover:bg-gray-50 px-9 py-2 italic font-bold rounded-full transition-all duration-300">
                   Get Started &rarr;
                 </span>
               </a>

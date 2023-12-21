@@ -27,7 +27,7 @@ const Navbar = () => {
     setIsHovered(!isHovered);
   };
   return (
-    <div className="p-8 top-0 left-0 fixed w-full z-10">
+    <div className="py-8 px-16 top-0 left-0 fixed w-full z-10">
       <nav className="flex items-center justify-between">
         <div className="flex space-x-3 items-center">
           <a href="/" onMouseEnter={toggleHover} onMouseLeave={toggleHover}>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Work = () => {
   return (
-    <div className="px-8 py-32">
+    <div className="px-16 py-32">
       <div className="flex flex-col space-y-3 pb-16">
         <h1 className="text-6xl capitalize font-medium">Work</h1>
         <p className="max-w-lg text-lg">

@@ -10,7 +10,7 @@ const Services = () => {
   ];
 
   return (
-    <div className="p-8">
+    <div className="py-8 px-16">
       <div className="py-12">
         <h1 className="text-7xl">Services</h1>
       </div>

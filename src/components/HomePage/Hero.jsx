@@ -3,10 +3,10 @@ import bgvideo from "../../assets/bg-video.webm";
 
 const Hero = () => {
   return (
-    <div className="px-8 min-h-screen -my-4 justify-center flex flex-col space-y-4 relative z-0">
+    <div className="px-16 min-h-screen -my-4 justify-center flex flex-col space-y-4 relative z-0">
       <div className="max-w-3xl">
         <h1 className="text-7xl font-medium">
-          The AI/ML Agency that you were looking for
+          The AI/ML firm that you were looking for
         </h1>
       </div>
       <div>

@@ -3,7 +3,7 @@ import React from "react";
 const Block = () => {
   return (
     <div className="w-full -mt-24 relative z-0">
-      <div className="grid grid-cols-4 bg-blue-600 rounded-3xl m-8 items-center justify-center">
+      <div className="grid grid-cols-4 bg-blue-600 rounded-3xl my-8 mx-16 items-center justify-center">
         <div className="col-span-1 flex justify-center items-center">
           <ul className="flex flex-col space-y-6 ">
             <li className="flex flex-col space-y-1 italic ">
