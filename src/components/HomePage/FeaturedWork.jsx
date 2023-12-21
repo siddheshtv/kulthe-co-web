@@ -18,7 +18,7 @@ const FeaturedWork = () => {
           </div>
           <div className="flex flex-col w-full p-4">
             <div className="flex justify-end items-start text-9xl font-thin">
-              <p className="text-blue-400 px-3">&#8599;</p>
+              <p className="text-blue-400 px-3 font-thin">&#8599;</p>
             </div>
             <div className="flex justify-end left-0 bottom-0 h-full items-start flex-col space-y-4 pb-12">
               <h1 className="text-6xl">Analitic app</h1>
@@ -42,7 +42,7 @@ const FeaturedWork = () => {
           </div>
           <div className="flex flex-col w-full p-4">
             <div className="flex justify-end items-start text-9xl font-thin">
-              <p className="text-blue-400 px-3">&#8599;</p>
+              <p className="text-blue-400 px-3 font-thin">&#8599;</p>
             </div>
             <div className="flex justify-end left-0 bottom-0 h-full items-start flex-col space-y-4 pb-12">
               <h1 className="text-6xl">Analitic app</h1>

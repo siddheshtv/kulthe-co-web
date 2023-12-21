@@ -23,7 +23,7 @@ const Footer = () => {
           <div className="flex items-stretch flex-col space-y-12 w-full">
             <span className="text-9xl pb-12 mt-4">
               to{" "}
-              <a href="/">
+              <a href="//">
                 <span className="bg-blue-600 hover:text-gray-950 hover:bg-gray-50 px-9 py-2 italic font-bold rounded-full transition-all duration-300">
                   Get Started &rarr;
                 </span>
@@ -32,7 +32,7 @@ const Footer = () => {
             <div className="flex space-x-12 items-end pt-6 w-full justify-between">
               <div className="flex flex-col space-y-2 pl-3">
                 <h1 className="text-5xl font-medium">Kulthe</h1>
-                <p>— &nbsp;AI Reimagined</p>
+                <p className="">— &nbsp;AI Reimagined</p>
               </div>
               <div className="flex flex-col space-y-2 pl-3">
                 <p className="text-gray-500">
@@ -46,12 +46,26 @@ const Footer = () => {
                 </p>
               </div>
               <div className="flex space-x-2 text-gray-500">
-                <p className="">Let's talk</p>
-                <p>Home</p>
-                <p>Work</p>
-                <p>About</p>
-                <p>Privacy</p>
-                <p>Terms</p>
+                <a href="/">
+                  <p className="hover:underline underline-offset-8">
+                    Let's talk
+                  </p>
+                </a>
+                <a href="/">
+                  <p className="hover:underline underline-offset-8">Home</p>
+                </a>
+                <a href="/">
+                  <p className="hover:underline underline-offset-8">Work</p>
+                </a>
+                <a href="/">
+                  <p className="hover:underline underline-offset-8">About</p>
+                </a>
+                <a href="/">
+                  <p className="hover:underline underline-offset-8">Privacy</p>
+                </a>
+                <a href="/">
+                  <p className="hover:underline underline-offset-8">Terms</p>
+                </a>
               </div>
             </div>
           </div>
