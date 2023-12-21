@@ -32,7 +32,7 @@ const Footer = () => {
             <div className="flex space-x-12 items-end pt-6 w-full justify-between">
               <div className="flex flex-col space-y-2 pl-3">
                 <h1 className="text-5xl font-medium">Kulthe</h1>
-                <p>— &nbsp;Software redefined</p>
+                <p>— &nbsp;AI Reimagined</p>
               </div>
               <div className="flex flex-col space-y-2 pl-3">
                 <p className="text-gray-500">

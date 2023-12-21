@@ -7,25 +7,26 @@ const Block = () => {
         <div className="col-span-1 flex justify-center items-center">
           <ul className="flex flex-col space-y-6 ">
             <li className="flex flex-col space-y-1 italic ">
-              <p className="text-8xl font-bold tracking-tighter">136+</p>
-              <p className="text-lg">Projects</p>
+              <h1 className="text-8xl font-bold tracking-tight">116+</h1>
+              <h1 className="text-lg">Enterprise Projects</h1>
             </li>
             <li className="flex flex-col space-y-1 italic">
-              <p className="text-8xl font-bold tracking-tighter">74+</p>
-              <p className="text-lg">Clients Served</p>
+              <h1 className="text-8xl font-bold tracking-tight">87+</h1>
+              <h1 className="text-lg">Clients Served</h1>
             </li>
             <li className="flex flex-col space-y-1 italic">
-              <p className="text-8xl font-bold tracking-tighter">18</p>
-              <p className="text-lg">Outstanding Employees</p>
+              <h1 className="text-8xl font-bold tracking-tight">$114K</h1>
+              <h1 className="text-lg">Saved By Clients</h1>
             </li>
           </ul>
         </div>
         <div className="col-span-3 flex flex-col justify-end items-end p-24 text-right space-y-12">
           <div className="">
             <h2 className="text-8xl opacity-60">
-              The best ever software agency is we,{" "}
-              <span className="font-bold">Kulthe</span>, have served more than
-              32 years well and certainly makes you comfortable and safe.
+              <span className="font-bold">Kulthe</span> has been at the
+              forefront of AI, helping many companies achieve achieve atleast{" "}
+              <span className="font-bold">21.8% ROI</span> through their
+              solutions
             </h2>
           </div>
         </div>

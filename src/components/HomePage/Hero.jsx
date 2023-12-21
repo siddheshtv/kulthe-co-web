@@ -6,14 +6,14 @@ const Hero = () => {
     <div className="px-8 min-h-screen -my-4 justify-center flex flex-col space-y-4 relative z-0">
       <div className="max-w-3xl">
         <h1 className="text-7xl font-medium">
-          Designing the future of brand identity.
+          The AI/ML Agency that you were looking for
         </h1>
       </div>
       <div>
-        <p className="text-lg max-w-2xl text-gray-300">
-          Doozy is a tiny design studio located in Aarhus, Denmark, dedicated to
-          redefining brand identity for the new digital age. We design for the
-          companies of today to build the vision of tomorrow.
+        <p className="text-lg max-w-2xl text-gray-200">
+          From chaos to clarity, Kulthe crafts bespoke AI/ML and deep learning
+          solutions that bring order to your data and drive transformative
+          growth.
         </p>
       </div>
       <div>

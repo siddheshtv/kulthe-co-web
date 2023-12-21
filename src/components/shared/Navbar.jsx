@@ -44,7 +44,7 @@ const Navbar = () => {
               transform: "translateY(20px)",
             }}
           >
-            — Software redefined
+            — AI Reimagined
           </h1>
         </div>
         <div>
